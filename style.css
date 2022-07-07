@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Trispace', sans-serif;
+    background-color: antiquewhite;
+}
+
+.container {
+    max-width: 1000px;
+    background-color: white;
+    margin: 0 auto;
+}
+
+#top {
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.top-holder {
+    float: left;
+    width: 50%;
+}
+
+.top-bannar {
+    border-left: 3px solid red;
+    width: 70%;
+
+
+}
+
+.top-bannar-color {
+    color: orange;
+}
+
+.top-bannar-btn a {
+    background-color: orangered;
+    width: 150px;
+    width: 15%;
+    padding: 15px;
+    border-radius: 15px;
+    text-decoration: none;
+}
+
+.top-bannar-image img {
+    width: 90%;
+    height: 300px;
+    float: right;
+    padding-right: 30px;
+
+
+
+}
