@@ -148,6 +148,8 @@ body {
 
 /* Develop without limits ended */
 
+/* Know Our Global Community Added */
+
 .globe {
     display: flex;
     width: 100%;
@@ -167,4 +169,39 @@ body {
 .global-community-image img {
     width: 300px;
     height: 350px;
+}
+
+/* Know Our Global Community Ended */
+
+.build {
+    text-align: center;
+    padding: 40px;
+}
+
+.Build-App {
+    display: flex;
+}
+
+.covid img {
+    width: 300px;
+    height: 450px;
+    float: left;
+    background-image: url(images/shapes/shape-3.png);
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: 80px;
+
+    background-image: url(images/shapes/shape-3.png);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    background-size: 80px;
+
+}
+
+.covid-info {
+    float: right;
+    padding-top: 130px;
+    width: 60%;
+    padding-right: 30px;
+    text-align: justify;
 }
