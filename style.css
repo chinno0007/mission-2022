@@ -205,3 +205,26 @@ body {
     padding-right: 30px;
     text-align: justify;
 }
+
+/*  */
+
+/* Footer add */
+.foot {
+    background-color: black;
+    color: white;
+    height: 140px;
+    width: 1040px;
+    text-align: center;
+    padding-top: 50px;
+    margin: 0 auto;
+    padding-bottom: 30px;
+
+}
+
+.foot h1 {
+    font-family: 'Pacifico', cursive;
+}
+
+.year {
+    font-size: 50px;
+}
